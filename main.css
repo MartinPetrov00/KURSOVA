@@ -1,0 +1,23 @@
+.content-box {
+    min-height: 300px;
+}
+/* 
+.row + .row {
+    margin-top: 1rem;
+} */
+.white-circle {
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
+.circle {
+    width: 66px;
+    height: 66px;
+}
+
+.bg-warning {
+    background-color: #1337fd; /* Change to your desired color */
+}
